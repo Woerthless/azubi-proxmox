@@ -1,1 +1,1 @@
-/home/mwoerman/git/ps-terra/proxmox_pve.auto.tfvars
+../../proxmox_pve.auto.tfvars
