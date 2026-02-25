@@ -1,7 +1,7 @@
 # Local .terraform files and directories
 **/.terraform/*
 .terraform*
-
+*auto.tfvars
 # .tfstate files
 *.tfstate
 *.tfstate.*
@@ -16,8 +16,8 @@
 *.tfvars
 *.tfvars.json
 # include "auto" tfvars files.
-!*.auto.tfvars
-!*.auto.tfvars.json
+# !*.auto.tfvars
+# !*.auto.tfvars.json
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
